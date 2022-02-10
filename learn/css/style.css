@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+.subheading{
+    color:rgb(43, 255, 0);
+    font-family: Algerian;
+}
+h2{
+    color:violet;
+    background-color: yellow;
+    padding: 2rem;
+    border: 0.2rem solid red ;
+    margin: 2rem;
+    text-align:center;
+    font-family: "Great Vibes";
+    font-weight: normal;
+    font-size: 6rem;
+    height: 15rem;
+    width: 20rem;
+}
+.container {
+    border: 0.1rem solid red;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+}
+
+.item {
+    border: 0.1rem solid blue;
+    height: 6rem;
+    width: 6rem
+}

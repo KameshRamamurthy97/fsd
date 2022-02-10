@@ -1,0 +1,1 @@
+h2[style="color:red"]*5{Heading Level 2}

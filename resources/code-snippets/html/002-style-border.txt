@@ -1,0 +1,1 @@
+<style>body, h2, img { border: 2px solid blue }</style>

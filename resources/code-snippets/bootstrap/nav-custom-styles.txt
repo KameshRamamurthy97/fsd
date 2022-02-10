@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+.bg-dark {
+    background-color: rgb(255, 0, 157)!important;
+}
+
+.navbar-brand {
+    font-family: "Great Vibes";
+    font-size: 2rem;
+    margin-left: 1rem;
+}
+
+.nav-link {
+    font-family: "Open Sans Condensed";
+    font-weight: bold;
+    font-size: 1.25rem;
+}

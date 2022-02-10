@@ -1,0 +1,3 @@
+            <hr>
+            Our preparation of pastries is based on the Royal Cookery Book (1867) authored by Jules Gouffé.
+            <img src="images/book-cover-bw.png" alt="Book cover image of Royal Cookery Book">

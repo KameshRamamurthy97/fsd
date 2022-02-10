@@ -1,0 +1,10 @@
+Action             Windows           Mac
+======             =======           ===
+Save               Ctrl+S            Command+S
+Copy               Ctrl+C            Command+C
+Paste              Ctrl+P            Command+P
+Select All         Ctrl+A            Command+A
+IntelliSense       Ctrl+Space        Control+Space
+Command Palette    Ctrl+Shift+P      Command+Shift+P
+Cut                Ctrl+X            Command+X
+Undo               Ctrl+Z            Command+Z
