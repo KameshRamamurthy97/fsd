@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Tempalte Literals</title>
+</head>
+<body>
+    <h1>Patisserie Menu Items</h1>
+    <div id="menuItems"></div>
+    <script>
+        let name1 = 'Bûche de Noël';
+        let name2 ="Crème brûlée";
+        let name3 ="Éclair"
+        // var html ="";
+        // html =html + "<div>"+ name1+"</div>";
+        // html =html + "<div>"+ name2+"</div>";
+        // html =html + "<div>"+ name3+"</div>";        
+        var html=`
+       <div>${name1}</div>
+       <div>${name2}</div>
+       <div>${name3}</div>
+        `;
+        document.getElementById("menuItems").innerHTML = html;
+    </script>
+</body>
+</html>

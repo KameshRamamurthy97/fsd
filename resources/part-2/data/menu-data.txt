@@ -1,0 +1,71 @@
+Menu Item 1
+===========
+Name: Bûche de Noël
+Description: Chocolate Cake rolled, filled with ganache and flavored with espresso.
+Price: 45
+Active: true
+Image Link: 
+
+Menu Item 2
+===========
+Name: Crème brûlée
+Description: Rich custard base topped with layer of hardened caramelized sugar.
+Price: 43
+Active: true
+Image Link: 
+
+Menu Item 3
+===========
+Name: Éclair
+Description: Choux dough filled with cream and topped with chocolate icing.
+Price: 45
+Active: true
+Image Link: 
+
+Menu Item 4
+===========
+Name: Macaron
+Description: Confection made from egg white, icing sugar, granulated sugar, almond meal and food colouring.
+Price: 95
+Active: true
+Image Link:
+
+Menu Item 5
+===========
+Name: Madeleine
+Description: Sponge cake baked with génoise batter and finely ground almonds.
+Price: 42
+Active: true
+Image Link:
+
+Menu Item 6
+===========
+Name: Mille-feuilles
+Description: Three layers of puff pastry with cream, pastry crumbs and fresh fruits.
+Price: 55
+Active: true
+Image Link:
+
+Menu Item 7
+===========
+Name: Pain au chocolat
+Description: Yeast leavened laminated dought baked with a crust of chocolate.
+Price: 43
+Active: false
+Image Link:
+
+Menu Item 8
+===========
+Name: Soufflé
+Description: Egg white beaten to peak, then mixed with flour and baked in ramekins.
+Price: 76
+Active: true
+Image Link:
+
+Menu Item 9
+===========
+Name: Baguette
+Description: A thin long bread baked from basic lean dough with crispy crust.
+Price: 9
+Active: false
+Image Link:

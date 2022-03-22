@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Object Demo</title>
+</head>
+<body>
+   <script src="menu-data.js"></script>
+   <script>   
+   console.log("display menu data.");        
+      for(let menuItem of menuItems){
+          console.log(menuItem.id);
+          console.log(menuItem.name);
+          console.log(menuItem.description);
+          console.log(menuItem.price);
+          console.log(menuItem.image);
+          console.log(menuItem.active);
+          console.log("\n");
+      }
+    </script>
+</body>
+</html>
