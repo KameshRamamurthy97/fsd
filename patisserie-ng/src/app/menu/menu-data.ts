@@ -4,7 +4,7 @@ export let menuItems = [{
     description: "Chocolate Cake rolled, filled with ganache and flavored with espresso.",
     price: 45,
     image: "assets/images/buche-de-noel.jpg",
-    active: false
+    active: true
 },
 {
     id: 2,

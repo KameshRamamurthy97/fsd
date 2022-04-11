@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { MenuService } from '../menu.service';
 import { Menu } from './menu';
 import { menuItems } from './menu-data';
 
@@ -8,11 +9,15 @@ import { menuItems } from './menu-data';
   styleUrls: ['./menu.component.css']
 })
 export class MenuComponent implements OnInit {
-  menuItems : Menu[] = menuItems;
-
-  constructor() { }
+  menuItems : Menu[] = [];
+  constructor(private menuService:MenuService) { }
 
   ngOnInit(): void {
+    console.log("init");
+    this.menuService.getMenus().subscribe((data) => {
+      console.log(data);
+      this.menuItems=data;
+    });
   }
 
 }
